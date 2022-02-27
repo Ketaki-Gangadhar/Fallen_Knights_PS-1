@@ -1,0 +1,46 @@
+:root{
+  --main-color:#e38528;
+}
+body{
+  background: #fcf2e8;
+  font-family: "Inter", sans-serif !important;
+  font-size: 1rem;
+}
+h2, h1, h3, h4, h5, h6, p{
+   font-family: "Inter", sans-serif !important;
+}
+.uicontainer{
+  background: #fcf2e8;
+}
+
+.InputText{
+text-align: center;
+ 
+}
+
+
+/*
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  
+}
+.row{
+  background-color: white;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+#image1{
+  align-self: center;
+  width: 600px;
+  height: 600px;
+}
+*/

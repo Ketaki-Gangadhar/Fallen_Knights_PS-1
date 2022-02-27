@@ -1,0 +1,29 @@
+.inputContainer{
+    display:"flex";
+    justify-content: "center"; 
+    background-color:"white"; 
+    padding-top:"100px";
+}
+
+.textStyle{
+    width:'1000px';
+    padding-left: 30px;
+    background-color: white;
+    padding-top: 20px;
+   
+}
+.uifield{
+    padding-top: 20px;
+}
+.uibuttonprimary{
+    background-color: #e38528;
+    border-radius: 12px;
+    outline-width: 0px;
+    padding: 10px;
+    color: white;
+    font-size: medium;
+}
+#text{
+    padding-top: 100px;
+    padding-left: 100px;
+}

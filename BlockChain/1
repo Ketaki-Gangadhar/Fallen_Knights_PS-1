@@ -1,0 +1,18 @@
+{
+    "callerid": "1235",
+    "TextData": "Russia go to war with Ukraine all week you had numerous answers to this question in Ukraine 71% the people believe that country is already at war with Russia",
+    "date": "02/27/22",
+    "time": "12:30:58",
+    "isPrank": "NO",
+    "Result_analysis": {
+        "Angry": 0.0,
+        "Fear": 0.5,
+        "Happy": 0.0,
+        "Sad": 0.0,
+        "Surprise": 0.5
+    },
+    "prev_block": {
+        "hash": "",
+        "filename": ""
+    }
+}
