@@ -7,7 +7,7 @@
 <h3>How to Run Application</h3>
 
 git clone https://github.com/akashchandrakar007/Fallen_Knights_PS-1.git
-<br> npm start
+<br> npm start 
 <br>
 
 <h3>Presentation</h3><br>
